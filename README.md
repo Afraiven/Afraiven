@@ -1,7 +1,8 @@
-<h1 align="center">Hi there! 👋</h1>
-<h3 align="center">Systems Engineering student at Wrocław University of Science and Technology</h3>
+<h1>
+  <img align="left" src="https://github.com/Afraiven/Afraiven/blob/main/process.gif" style=" width: 5rem; height: 5rem; ">
+  <strong>Systems Engineering student<br>at Wrocław University of Science and Technology</strong>
+</h1>
 
-<h2 align="left">About Me</h2>
 <p align="left">I'm particularly interested in applying artificial intelligence and machine learning to solve real-world problems. I'm passionate about building applications with Python and JavaScript. Besides that, I enjoy designing, analyzing, and enhancing algorithms to optimize performance and efficiency.</p>
 
 <h3 align="left">Current Interests</h3>
