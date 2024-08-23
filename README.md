@@ -1,5 +1,5 @@
 <h1>
-  <img align="left" src="https://github.com/Afraiven/Afraiven/blob/main/process.gif" style=" width: 5rem; height: 5rem; ">
+  <img align="left" src="https://github.com/Afraiven/Afraiven/blob/main/nn.gif" style=" width: 5rem; height: 5rem; ">
   <strong>Systems Engineering student<br>at Wrocław University of Science and Technology</strong>
 </h1>
 
